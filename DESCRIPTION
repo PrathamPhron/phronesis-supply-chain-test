@@ -1,0 +1,6 @@
+Package: phronesis-supply-chain-test
+Version: 1.0.0
+Title: Supply Chain Test
+Description: Pentest PoC package.
+Author: Phronesis Security
+License: MIT
